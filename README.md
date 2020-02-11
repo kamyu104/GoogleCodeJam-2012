@@ -15,29 +15,53 @@ Python solutions of Google Code Jam 2012. Solution begins with `*` means it will
 ## Qualification Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Speaking in Tongues](https://code.google.com/codejam/contest/1460488/dashboard#s=p0)| | | | | | |
+|B| [Dancing With the Googlers](https://code.google.com/codejam/contest/1460488/dashboard#s=p1)| | | | | | |
+|C| [Recycled Numbers](https://code.google.com/codejam/contest/1460488/dashboard#s=p2)| | | | | | |
+|D| [Hall of Mirrors](https://code.google.com/codejam/contest/1460488/dashboard#s=p3)| | | | | | |
 
 ## Round 1A
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Password Problem](https://code.google.com/codejam/contest/1645485/dashboard#s=p0)| | | | | | |
+|B| [Kingdom Rush](https://code.google.com/codejam/contest/1645485/dashboard#s=p1)| | | | | | |
+|C| [Cruise Control](https://code.google.com/codejam/contest/1645485/dashboard#s=p2)| | | | | | |
 
 ## Round 1B
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Safety in Numbers](https://code.google.com/codejam/contest/1836486/dashboard#s=p0)| | | | | | |
+|B| [Tide Goes In, Tide Goes Out](https://code.google.com/codejam/contest/1836486/dashboard#s=p1)| | | | | | |
+|C| [Equal Sums](https://code.google.com/codejam/contest/1836486/dashboard#s=p2)| | | | | | |
 
 ## Round 1C
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Diamond Inheritance](https://code.google.com/codejam/contest/1781488/dashboard#s=p0)| | | | | | |
+|B| [Out of Gas](https://code.google.com/codejam/contest/1781488/dashboard#s=p1)| | | | | | |
+|C| [Box Factory](https://code.google.com/codejam/contest/1781488/dashboard#s=p2)| | | | | | |
 
 ## Round 2
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|D| [Descending in the Dark](https://code.google.com/codejam/contest/1327485/dashboard#s=p2)|||| Very Hard | | |
+|A| [Swinging Wild](https://code.google.com/codejam/contest/1842485/dashboard#s=p0)| | | | | | |
+|B| [Aerobics](https://code.google.com/codejam/contest/1842485/dashboard#s=p1)| | | | | | |
+|C| [Mountain View](https://code.google.com/codejam/contest/1842485/dashboard#s=p2)| | | | | | |
+|D| [Descending in the Dark](https://code.google.com/codejam/contest/1842485/dashboard#s=p3)|||| Very Hard | | |
 
 ## Round 3
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Perfect Game](https://code.google.com/codejam/contest/1835486/dashboard#s=p0)| | | | | | |
+|B| [Havannah](https://code.google.com/codejam/contest/1835486/dashboard#s=p1)| | | | | | |
+|C| [Quality Food](https://code.google.com/codejam/contest/1835486/dashboard#s=p2)| | | | | | |
+|D| [Lost Password](https://code.google.com/codejam/contest/1835486/dashboard#s=p3)| | | | | | |
 
 ## Wolrd Finals
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|A| [Zombie Smash](https://code.google.com/codejam/contest/2075486/dashboard#s=p0)| | | | | | |
+|B| [Upstairs/Downstairs](https://code.google.com/codejam/contest/2075486/dashboard#s=p1)| | | | | | |
+|C| [Xeno-archaeology](https://code.google.com/codejam/contest/2075486/dashboard#s=p2)| | | | | | |
+|D| [Twirling Towards Freedom](https://code.google.com/codejam/contest/2075486/dashboard#s=p3)| | | | | | |
 |E| [Shifting Paths](https://code.google.com/codejam/contest/2075486/dashboard#s=p4)|||| Very Hard | | |
